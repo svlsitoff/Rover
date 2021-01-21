@@ -1,0 +1,13 @@
+C:\Users\Z\Desktop\Rovers\RoversApp\bin\Debug\netcoreapp3.1\RoversApp.exe
+C:\Users\Z\Desktop\Rovers\RoversApp\bin\Debug\netcoreapp3.1\RoversApp.deps.json
+C:\Users\Z\Desktop\Rovers\RoversApp\bin\Debug\netcoreapp3.1\RoversApp.runtimeconfig.json
+C:\Users\Z\Desktop\Rovers\RoversApp\bin\Debug\netcoreapp3.1\RoversApp.runtimeconfig.dev.json
+C:\Users\Z\Desktop\Rovers\RoversApp\bin\Debug\netcoreapp3.1\RoversApp.dll
+C:\Users\Z\Desktop\Rovers\RoversApp\bin\Debug\netcoreapp3.1\RoversApp.pdb
+C:\Users\Z\Desktop\Rovers\RoversApp\obj\Debug\netcoreapp3.1\RoversApp.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\Rovers\RoversApp\obj\Debug\netcoreapp3.1\RoversApp.AssemblyInfoInputs.cache
+C:\Users\Z\Desktop\Rovers\RoversApp\obj\Debug\netcoreapp3.1\RoversApp.AssemblyInfo.cs
+C:\Users\Z\Desktop\Rovers\RoversApp\obj\Debug\netcoreapp3.1\RoversApp.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\Rovers\RoversApp\obj\Debug\netcoreapp3.1\RoversApp.dll
+C:\Users\Z\Desktop\Rovers\RoversApp\obj\Debug\netcoreapp3.1\RoversApp.pdb
+C:\Users\Z\Desktop\Rovers\RoversApp\obj\Debug\netcoreapp3.1\RoversApp.genruntimeconfig.cache
